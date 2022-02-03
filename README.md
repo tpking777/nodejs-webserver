@@ -1,2 +1,4 @@
 # Primer Web Server en NodeJS
-Prueba para conexion web al Localhost
+
+Verificar la version de NodeJS y NPM
+node -v && npm -v
